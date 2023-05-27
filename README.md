@@ -1,3 +1,2 @@
-# Talesworld_telegram_game
-Полноценная разработка проекта Talesworld - игры в телеграмме.
+# The birth of a hero
 Сохраняем только в виде полного архива.
